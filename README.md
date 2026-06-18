@@ -24,13 +24,6 @@ If you are a recruiter, hiring manager, teammate, or potential collaborator, thi
 | [personal-signing-vault](https://github.com/Dodhon/personal-signing-vault) | A local-first document signing workflow built around private files and inspectable state. |
 | [device-render-studio](https://github.com/Dodhon/device-render-studio) | A browser-based 3D device mockup renderer. Useful for seeing frontend and interactive work. |
 
-## How I Work With Teams
-
-- I like clear ownership, small shipped increments, and evidence that a teammate can run or inspect.
-- I write READMEs, plans, and review notes so other people can understand the tradeoff without a meeting.
-- I prefer systems with explicit inputs, outputs, failure modes, and privacy boundaries.
-- I move quickly, but I try to leave behind artifacts that make the next decision easier.
-
 ## Good Conversations To Start
 
 - Building internal tools that turn repeated team workflows into reliable software.
