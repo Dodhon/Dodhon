@@ -2,6 +2,8 @@
 
 I build local-first developer tools, retrieval systems, and applied ML demos.
 
+This profile is an index to the public work I want people to inspect first.
+
 The common thread is operational control: keep private data local, make workflows inspectable, and ship tools that can be validated from the command line or a small browser surface.
 
 ## Current Focus
